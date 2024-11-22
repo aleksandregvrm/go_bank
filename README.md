@@ -3,3 +3,5 @@
 #### Firstly you need to provide the correct env variables and then run the following commands in the Makefile
 
 #### Look up the .env structure in .env.example file
+
+#### Before merging changes on the main branch we utilize ci pipeline with github actions...
